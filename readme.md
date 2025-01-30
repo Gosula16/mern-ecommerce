@@ -56,10 +56,6 @@
 
 ### Clone the project
 
-```bash
-  git clone https://github.com/RishiBakshii/mern-ecommerce.git
-```
-
 ### Navigate to the project directory
 
 ```bash
@@ -173,5 +169,4 @@ Once both servers are running, you can access them at the following URL's:
 ## **Bonus**
 Don't forget to star the repository and share your feedback!✨
 
-## Authors
-- [@RishiBakshii](https://github.com/RishiBakshii)
+
